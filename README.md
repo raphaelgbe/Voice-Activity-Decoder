@@ -14,5 +14,5 @@ The scripts have the following roles:
 ## Results:
 
 From this very simple model, we could reach a validation accuracy of nearly 89% after 5 epochs of training:
-![Accuracy](Results CNN.png)
+![Accuracy](Results%20CNN.png)
 The weird behavior of the training accuracy being below the validation accuracy is most likely due to the utilisation of Dropout layers.
